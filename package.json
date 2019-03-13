@@ -1,0 +1,24 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "Hot Restaurant - Unit 13: Express in-class assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdimartino510/hot-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdimartino510/hot-restaurant/issues"
+  },
+  "homepage": "https://github.com/sdimartino510/hot-restaurant#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
